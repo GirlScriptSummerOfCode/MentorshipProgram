@@ -1,3 +1,5 @@
+![GSSOC'18 Logo](https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png "GirlScript Summer Of Code 2018")
+
 # GirlScript Summer Of Code 2018 - Mentorship Program
 
 #### What is GirlScript Summer of Code?
