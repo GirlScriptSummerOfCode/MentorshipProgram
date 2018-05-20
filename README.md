@@ -40,5 +40,5 @@ Mentors will also recieve an awesome GirlScript Tshirt and exciting goodies afte
 Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](http://www.shortto.com/MentorGSSOC)  
 Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission](http://bit.ly/ProjectsGSSOC)
 
-[GirlScript Summer Of Code 2018 - Official Website](www.gssoc.tech)  
-[GirlScript India - Official Website](www.girlscript.tech)
+[GirlScript Summer Of Code 2018 - Official Website](http://www.gssoc.tech)  
+[GirlScript India - Official Website](http://www.girlscript.tech)
