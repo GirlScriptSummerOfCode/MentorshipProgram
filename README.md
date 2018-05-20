@@ -12,9 +12,11 @@ The Summer Of Code includes a mentorship program in which mentors will guide the
 
 You can either **mentor for a project** or **you can submit your own projects to be completed during GSSOC**. Apart from the above project ideas, GSSOC'18 will also include the development of websites for various NGO organizations and Open-Web Literacy programs.
 
+Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](http://www.shortto.com/MentorGSSOC)  
+
 ![Mentorship Program](https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/PSD.png "Become A Mentor Today")
 
-Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](http://www.shortto.com/MentorGSSOC)  
+
 
 ## Your responsibilities as a mentor
 1. All the projects will have labels associated with it clarifying the skill set required for significant contributions to the project which makes it more feasible for the participants to make pull requests in the proposed projects.  
@@ -29,7 +31,9 @@ Projects can be from any field (Web Development, Android Development, Software D
 
 We would appericiate if you can contribute with multiple project ideas and it will be an icing on the cake if you choose to be a mentor as well.
 
-Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission](http://bit.ly/ProjectsGSSOC)
+Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission](http://bit.ly/ProjectsGSSOC)  
+
+![Project Submission](https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/PSD(1).png "Submit Your Project")  
 
 ## Awards and Goodies
 All hard work comes with a reward.  
