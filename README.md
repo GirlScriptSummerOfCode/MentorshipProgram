@@ -41,7 +41,7 @@ Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission]
 All hard work comes with a reward.  
 Mentors will be awarded a **certificate of recognition from GirlScript India**.  
 Moreover, being a mentor for a 3-Month long All India Open Source Event organised by a Non-Profit Organisation would be an amazing experience in itself.  
-Mentors will also recieve an awesome GirlScript Tshirt and exciting goodies after successful completition of your role as a mentor during GirlScript Summer of Code 2018.
+Mentors will also recieve an awesome GirlScript Tshirt and exciting goodies after successful completion of your role as a mentor during GirlScript Summer of Code 2018.
 
 Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](http://www.shortto.com/MentorGSSOC)  
 Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission](http://bit.ly/ProjectsGSSOC)
