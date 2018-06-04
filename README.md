@@ -4,7 +4,7 @@
 
 ## What is GirlScript Summer of Code?
 
-GirlScript India is organising GirlScript Summer of Code this year. This an opensource event where novice as well as seasoned developers from all over India come together to work on projects. Beginners get a nice opportunity to learn and work on a real world project at the same time.
+GirlScript India is organising GirlScript Summer of Code this year. This is an opensource event where novice as well as seasoned developers from all over India come together to work on projects. Beginners get a nice opportunity to learn and work on a real world project at the same time.
 
 As of now around 900 participants have registered all across the country and we aim to complete 30+ open source projects under the program.
 
@@ -28,9 +28,9 @@ Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](ht
 
 Apart from being a mentor, you can also submit your own project ideas to be completed during GSSOC. You can chose to be a mentor for your submitted projects.
 
-Projects can be from any field (Web Development, Android Development, Software Development, Artifical Intelligence/Machine Learning, Design) and can use any languages/softwares.
+Projects can be from any field (Web Development, Android Development, Software Development, Artificial Intelligence/Machine Learning, Design) and can use any languages/softwares.
 
-We would appericiate if you can contribute with multiple project ideas and it will be an icing on the cake if you choose to be a mentor as well.
+We would appreciate if you can contribute with multiple project ideas and it will be an icing on the cake if you choose to be a mentor as well.
 
 Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission](http://bit.ly/ProjectsGSSOC)
 
@@ -41,7 +41,7 @@ Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission]
 All hard work comes with a reward.  
 Mentors will be awarded a **certificate of recognition from GirlScript India**.  
 Moreover, being a mentor for a 3-Month long All India Open Source Event organised by a Non-Profit Organisation would be an amazing experience in itself.  
-Mentors will also recieve an awesome GirlScript Tshirt and exciting goodies after successful completition of your role as a mentor during GirlScript Summer of Code 2018.
+Mentors will also receive an awesome GirlScript Tshirt and exciting goodies after successful completion of your role as a mentor during GirlScript Summer of Code 2018.
 
 Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](http://www.shortto.com/MentorGSSOC)  
 Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission](http://bit.ly/ProjectsGSSOC)
