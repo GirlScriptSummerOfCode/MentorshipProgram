@@ -24,7 +24,7 @@ Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](ht
 2.  The mentors would be required to maintain a leaderboard of the contributions of all their mentees.
 3.  Also, the mentors are supposed to give biweekly evaluation of the participants under their project to their respective project admin and the organizing team. This would help in the overall evaluation of all the participants.
 
-## 🖥 Submitting your project
+<h1 align="center"> 🖥 Submitting your project <h1>
 
 Apart from being a mentor, you can also submit your own project ideas to be completed during GSSOC. You can chose to be a mentor for your submitted projects.
 
@@ -36,7 +36,7 @@ Submit Your Projects Here: [GirlScript Summer of Code 2018 - Project Submission]
 
 ![Project Submission](<https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/PSD(1).png> "Submit Your Project")
 
-## 🎉 Awards and Goodies
+<h1 align="center"> 🎉 Awards and Goodies <h1>
 
 All hard work comes with a reward.  
 Mentors will be awarded a **certificate of recognition from GirlScript India**.  
