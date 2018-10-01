@@ -19,10 +19,10 @@ Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](ht
 ![Mentorship Program](https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/PSD.png "Become A Mentor Today")
 
 <h1 align="center"> 👩‍🏫 Your responsibilities as a mentor</h1>
-<p align= "center">
+
 1.  All the projects will have labels associated with it clarifying the skill set required for significant contributions to the project which makes it more feasible for the participants to make pull requests in the proposed projects.
 2.  The mentors would be required to maintain a leaderboard of the contributions of all their mentees.
-3.  Also, the mentors are supposed to give biweekly evaluation of the participants under their project to their respective project admin and the organizing team. This would help in the overall evaluation of all the participants.</p>
+3.  Also, the mentors are supposed to give biweekly evaluation of the participants under their project to their respective project admin and the organizing team. This would help in the overall evaluation of all the participants.
 
 <h1 align="center"> 🖥 Submitting your project </h1>
 
