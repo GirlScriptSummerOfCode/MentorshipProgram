@@ -8,7 +8,7 @@ GirlScript India is organising GirlScript Summer of Code this year. This is an o
 
 As of now around 900 participants have registered all across the country and we aim to complete 30+ open source projects under the program.
 
-## 🙋‍♀️ Girlscript Summer Of Code Mentorship Program
+<h1 align="center"> 🙋‍♀️ Girlscript Summer Of Code Mentorship Program </h1>
 
 The Summer Of Code includes a mentorship program in which mentors will guide the projects to completion by creating issues and tutoring the novice to have a learning experience at the Summer of Code. Not only beginners but also experienced developers will have an opportunity to connect with a mentor and learn new things. Therefore, mentors play a vital role in making this a successful event.
 
@@ -18,7 +18,7 @@ Apply As a Mentor Here: [GirlScript Summer of Code 2018 - Mentor Application](ht
 
 ![Mentorship Program](https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/PSD.png "Become A Mentor Today")
 
-## 👩‍🏫 Your responsibilities as a mentor
+<h1 align="center"> 👩‍🏫 Your responsibilities as a mentor<h1>
 
 1.  All the projects will have labels associated with it clarifying the skill set required for significant contributions to the project which makes it more feasible for the participants to make pull requests in the proposed projects.
 2.  The mentors would be required to maintain a leaderboard of the contributions of all their mentees.
